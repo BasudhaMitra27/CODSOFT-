@@ -20,7 +20,7 @@ Welcome to the CodSoft Java Development Internship repository! This repository d
   * Convert currencies using its exchange rates.
   * Provide a user-friendly interface for currency conversion.
 
-# Task 5:
+# Task 5: Student Management System
   * Manage students with Student and StudentManagementSystem classes.
 
 
